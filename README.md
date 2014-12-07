@@ -1,2 +1,2 @@
-Redirect_User_To_Different_Applications
-=======================================
+
+Redirect user to different appliactions for sending e-mail or sms
